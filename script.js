@@ -2,7 +2,6 @@
 const GameBoard = (() => {
   let gameboard = [];
 
-
 })();
 
 // Game module
