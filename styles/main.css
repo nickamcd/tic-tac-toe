@@ -41,7 +41,7 @@ h1 {
   color: white;
   background-color: var(--mint);
   font-size: 26px;
-  transition: 200ms transform
+  transition: 250ms transform
 }
 
 .container button:hover {
